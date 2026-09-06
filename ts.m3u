@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Premier League - Everton vs Manchester United" tvg-logo="https://img.monomax.me/lkIUUmQTLWOScnEtWBS3GxS-QU0=/0x630/dspmybbtch7bd.cloudfront.net/matches/oxm4JjbAniu5JE7lXOEf8bBWuV3E5ghfBMliGOcq.png",Premier League - Everton vs Manchester United
+#EXTVLCOPT:http-referrer=https://embdlol.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+https://prod-e3.tonzoidio.st/out/v1/channel(b2ykz9my)/index.m3u8?hmk.sessionId=01a0770c-3004-7965-b776-dbbf4348660f
+#EXTINF:-1 tvg-name="F1 - Monza - Race - UHD" tvg-logo="https://img.monomax.me/lkIUUmQTLWOScnEtWBS3GxS-QU0=/0x630/dspmybbtch7bd.cloudfront.net/matches/oxm4JjbAniu5JE7lXOEf8bBWuV3E5ghfBMliGOcq.png",F1 - Monza - Race - UHD
+#EXTVLCOPT:http-referrer=https://embdlol.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+https://prod-e4.tonzoidio.st/out/v1/channel(9eevok92)/index.m3u8?hmk.sessionId=01a07711-1fb2-7268-a210-942b053ac7aa
