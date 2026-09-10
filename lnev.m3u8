@@ -7,35 +7,9 @@
 
 
 {
-"name":"Live Liverpool vs Atlético Madrid",
-"image":"https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKozAgUxJKRC8QWECeMoDIEpaOWWSClhFzGKMKp0c35RtTk78rMBgbuJiEEA.webp", 
-"url":"https://public-play.ycuaas.cn/public/167165655_1788979157_gqzm.flv?txSecret=3479e27e42aec4f5adc3ddb9d1c8cbb2&txTime=6AA1BA66&token=2d4092b3924b3490&device=3&platform=88zb",                             
-"playInNatPlayer":"true"},
-
-{
-"name":"Live Liverpool vs Atlético Madrid",
-"image":"https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKozAgUxJKRC8QWECeMoDIEpaOWWSClhFzGKMKp0c35RtTk78rMBgbuJiEEA.webp",
-"url":"https://play2.syyzll.com/live/sd-6Mxj4xXRW8SSCjWRAG.flv?auth_key=1788987182-9beec54dfca64c82993b172b83850821-0-ce7d8fdb9b50d63b76d0368742000b3c",
-"playInNatPlayer":"true"},
-
-{
-"name":"Live Napoli vs Arsenal",
-"image":"https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdilIhpIXmCQgSukFhBnTKY0Z2IsLJBTvtR4lGFWaO78o2pzN+KzAYO7iYhBAA.webp", 
-"url":"https://public-play.ycuaas.cn/public/988203935_1788979283_gqzm.flv?txSecret=1e8a1785f225f7f6bd520aa44a31d175&txTime=6AA1BC64&token=bbaf8f5c13598d3a&device=3&platform=88zb",                             
-"playInNatPlayer":"true"},
-
-{
-"name":"Live Napoli vs Arsenal",
-"image":"https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdilIhpIXmCQgSukFhBnTKY0Z2IsLJBTvtR4lGFWaO78o2pzN+KzAYO7iYhBAA.webp",
-"url":"https://play2.syyzll.com/live/sd-6Mxj4xXS1JrSN9e5Gc.flv?auth_key=1788987705-a06cbcb5405f489e95460e16fb0221e0-0-619bcbd6761dd8a9a5ebf3619c8176bd",
-"playInNatPlayer":"true"},
-
-{
-"name":"Live Liverpool vs Atlético Madrid",
-"image":"https://ballmun.net/asset/icon/BM1.png",
-"url":"https://cdnsv1.cdncloudbot.com/ballmun/sd1/chunks.m3u8?nimblesessionid=53392572&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjYgNjo1NDozMyBQTSZoYXNoX3ZhbHVlPUJjRDNjZ25Pb25QUlBKUlVMWWtCK3c9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0xNzg4OTgwMDczNjA1JnN0cm1fbGVuPTA=",
-"referer":"https://ballmun.net/",
-"info":"ballmun",
+"name":"Manchester United vs Sabah Baku",
+"image":"https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMohIgZYXCG4g+IY0ZT6QWrUcbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp", 
+"url":"https://play.syyzll.com/meishisports/2098086810.flv?auth_key=1789231199-0-0-868e2c147d7527e7625d33c149acb450",                             
 "playInNatPlayer":"true"},
 
 ]
