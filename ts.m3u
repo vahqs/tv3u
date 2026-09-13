@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sunderland vs. Arsenal" tvg-logo="https://static.ppvservices.st/assets/thumb/e1ec2bb3a84f06639d71e65561ff80b0-thumbnail.jpg",Sunderland vs. Arsenal
-https://play2.syyzll.com/live/sd-6MwdqQhYUwQbNmpUYx.flv?auth_key=1789247374-07ee867915be48f29174b513ed9fcc94-0-27ff75aa28a056205bed4db0b55aa385
-#EXTINF:-1 tvg-name="Sunderland vs. Arsenal" tvg-logo="https://static.ppvservices.st/assets/thumb/e1ec2bb3a84f06639d71e65561ff80b0-thumbnail.jpg",Sunderland vs. Arsenal
-https://play2.syyzll.com/live/sd-6MwdqQhYUwQbNmpUYx.m3u8?auth_key=1789247374-07ee867915be48f29174b513ed9fcc94-0-920bf9d36f5b43af7e19797de8f275be
+#EXTINF:-1 tvg-name="Madring — Race: Spanish Grand Prix — Formula 1x" tvg-logo="https://e0.365dm.com/22/05/2048x1152/skysports-f1-spanish-gp_5774669.jpg",Madring — Race: Spanish Grand Prix — Formula 1
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nahoqoutku/out/v1/86bf0ad73dce4820970caf0014f2b000/cenc.mpd
