@@ -1,14 +1,15 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/eb4b298b2d9c02c58d79847d062f569c-thumbnail.jpg",c
-#EXTVLCOPT:http-referrer=https://doball9999.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
-https://4df850lhkq.ja-me-kai-kai-rak-kon-na-ta-yang-chan.sbs/do-ball.com/monomax-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMy8yMDI2IDM6MDM6NTMgUE0maGFzaF92YWx1ZT1Kclg1dkg3MndQRlBEd3NnKytEb3VnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x
-
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/eb4b298b2d9c02c58d79847d062f569c-thumbnail.jpg",x
-#EXTVLCOPT:http-referrer=https://live.livedoomovies.com:4433/watch?play=g-82044&embed=1&postmessage=1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
-https://live.livedoomovies.com:4433/api/hls/s/82044/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/eb4b298b2d9c02c58d79847d062f569c-thumbnail.jpg",Manchester United vs. Manchester City (Stream 1)
-https://play2.syyzll.com/live/sd-6MwdqQhYeLVmDkhkbJ.flv?auth_key=1789318526-2f88cd72e3d04497b3833c95610b1d46-0-a23a9fa0860aa1689f41df37ae23721f
+#EXTINF:-1 tvg-id="1" tvg-name="AFC Bournemouth vs. Liverpool" tvg-logo="https://static.ppvservices.st/assets/thumb/8a4353a6c9b663e448523621b1656a50-thumbnail.jpg" group-title="Sport",AFC Bournemouth vs. Liverpool
+https://play2.syyzll.com/live/sd-6MwdqQhYV6CWrh89AY.flv?auth_key=1789909794-97f7850dd6cb40639380010ef8332fb1-0-2861db2979ba7c468931de72966230df
+#EXTINF:-1 tvg-id="2" tvg-name="Leeds United vs. Crystal Palace" tvg-logo="https://static.ppvservices.st/assets/thumb/5eae56653476a7b5609a9dbfaad4fd10-thumbnail.jpg" group-title="Sport",Leeds United vs. Crystal Palace
+https://play2.syyzll.com/live/sd-6MwdqQhYyheJxus3yS.flv?auth_key=1789909794-2cfa964d284c498eb47c813b2278cfa4-0-f764a3a90dd3ff060f2e2ad67a97697c
+#EXTINF:-1 tvg-id="3" tvg-name="Manchester City vs. Sunderland" tvg-logo="https://static.ppvservices.st/assets/thumb/219e0b5331a8099a3743a84f398a680b-thumbnail.jpg" group-title="Sport",Manchester City vs. Sunderland
+https://play2.syyzll.com/live/sd-6MwdqQhYpR9ajNTXPn.flv?auth_key=1789909875-f6c9f67efd8349e38a3284e52df0921a-0-0203c1ab409e8b4ca1c26ba1c87be9d9
+#EXTINF:-1 tvg-id="4" tvg-name="Fulham vs. Manchester United" tvg-logo="https://static.ppvservices.st/assets/thumb/3f90d9163e86d642c589ec2edd8b8c16-thumbnail.jpg" group-title="Sport",Fulham vs. Manchester United
+https://doodii-1.akamomo558.top/xstream/max5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDI2IDE6NDU6MjAgUE0maGFzaF92YWx1ZT1ydnNIWEhBVTVWVUVpSXV5VWJoNzRnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x
+#EXTINF:-1 tvg-id="5" tvg-name="Atlético Madrid vs. Real Madrid" tvg-logo="https://static.ppvservices.st/assets/thumb/f71996b36723c75cc2888a66fab63691-thumbnail.jpg" group-title="Sport",Atlético Madrid vs. Real Madrid
+https://play2.syyzll.com/live/sd-6MweaGxVNQQWHxvVbe.flv?auth_key=1789909882-c809c84ee1264f0381e892b31b19c638-0-4c08da944cc9be95313a2ce893b6591f
+#EXTINF:-1 tvg-id="6" tvg-name="TH Atlético Madrid vs. Real Madrid" tvg-logo="https://static.ppvservices.st/assets/thumb/f71996b36723c75cc2888a66fab63691-thumbnail.jpg" group-title="Sport",TH Atlético Madrid vs. Real Madrid
+#EXTVLCOPT:http-referrer=https://ball-live.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36
+https://play2.syyzll.com/live/sd-6MweaGxVNQQWHxvVbe.flv?auth_key=1789909882-c809c84ee1264f0381e892b31b19c638-0-4c08da944cc9be95313a2ce893b6591f
