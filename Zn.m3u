@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="V0023" tvg-name="V0023 (Paid Trick)",V0023
-https://mp3.ovp.ais.th:7111/live/eds/V0023/DDH/V0023.mpd|authinfo=9y0oLIgbhvx4fw2GFmuefi2PbjmnPr69ufjAuAjMaOkez%2BmaDo5R6VhdjBxwIyB2&x-authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaWQiOiJ1MDVWNzRDWXA0U01LS0ROSHlWSW5RVDcvVXhCOGhSNUVQckQzZjZJM1J1WitPcFMyR3h1UmhRYTFGL0RYKzdmYzlRVExZeFdOcUlWZ3ozWnp5YmJKUlkySUhGNmd2SXY5N2RVdmpFaHRxWFFnPSIsIm9wZXJhdG9yX2lkIjoibm9uLWFpcyIsInB1YmxpY19pZCI6IjY2OTU5MjYxMTc0IiwiaXNzIjoidmRvbXctcHJvZC1hY3QiLCJzdWIiOiJkdnBsb2dpbiIsImF1ZCI6InVzZXJBdXRob3JpemUiLCJqdGkiOiI0MWNiMzMzN2ZiYmQ0MTI5IiwiaWF0IjoxNzkwMDA4NDg3LCJleHAiOjE3OTUxOTI0ODd9.13-uQIeyG-B-HDi72XPM62az4C1AMZvioQDX8PZxMes
+#EXTINF:-1 tvg-id="1" tvg-name="AFC Bournemouth vs. Liverpool" tvg-logo="https://static.ppvservices.st/assets/thumb/8a4353a6c9b663e448523621b1656a50-thumbnail.jpg" group-title="Sport",AFC Bournemouth vs. Liverpool
+https://play2.syyzll.com/live/sd-6MwdqQhYV6CWrh89AY.flv?auth_key=1789909794-97f7850dd6cb40639380010ef8332fb1-0-2861db2979ba7c468931de72966230df
+#EXTINF:-1 tvg-id="2" tvg-name="Leeds United vs. Crystal Palace" tvg-logo="https://static.ppvservices.st/assets/thumb/5eae56653476a7b5609a9dbfaad4fd10-thumbnail.jpg" group-title="Sport",Leeds United vs. Crystal Palace
+https://play2.syyzll.com/live/sd-6MwdqQhYyheJxus3yS.flv?auth_key=1789909794-2cfa964d284c498eb47c813b2278cfa4-0-f764a3a90dd3ff060f2e2ad67a97697c
